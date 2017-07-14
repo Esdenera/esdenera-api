@@ -1,7 +1,7 @@
 License
 =======
 
-Esdenera API is free software under an the ISC license.
+Esdenera API is free software under the ISC license.
 
 > Copyright (c) 2017 Esdenera Networks GmbH
 > 
